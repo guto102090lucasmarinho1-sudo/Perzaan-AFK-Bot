@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "srt oficial",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": ": srt-TppZ.aternos.me:43678",
+    "port": 43678,
     "version": "1.21.1"
   },
   "position": {
